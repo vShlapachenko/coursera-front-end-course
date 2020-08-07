@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63cf3ffd-4db4-408d-844c-3173c79ebf43" name="Default Changelist" comment="test commit">
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fhy58GS9ynzs0krtWh6HSJuoSl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Projects\coursera-front-end-course" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Projects\coursera-front-end-course\js" />
+      <recent name="F:\Projects\coursera-front-end-course" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63cf3ffd-4db4-408d-844c-3173c79ebf43" name="Default Changelist" comment="" />
+      <created>1596684432581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596684432581</updated>
+      <workItem from="1596684433635" duration="3225000" />
+      <workItem from="1596738903318" duration="4447000" />
+      <workItem from="1596770976898" duration="599000" />
+      <workItem from="1596771618371" duration="27000" />
+      <workItem from="1596771695964" duration="397000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add index.html">
+      <created>1596685259676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596685259676</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test commit">
+      <created>1596685841695</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596685841695</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add index.html" />
+    <MESSAGE value="test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1374" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596771380619">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1374" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1596771380619" />
+    <state x="1755" y="601" width="624" height="463" key="Github.ShareDialog" timestamp="1596684505627">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1755" y="601" width="624" height="463" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1596684505627" />
+    <state x="1733" y="408" key="Github.UntrackedFilesDialog" timestamp="1596684511041">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1733" y="408" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1596684511041" />
+    <state x="1512" y="436" key="Vcs.Push.Dialog.v2" timestamp="1596685842898">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1512" y="436" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1596685842898" />
+    <state x="1737" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596684689468">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1737" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1596684689468" />
+    <state x="1576" y="334" key="run.anything.popup" timestamp="1596686113045">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1576" y="334" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1596686113045" />
+  </component>
+</project>
