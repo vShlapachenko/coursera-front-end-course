@@ -3,15 +3,54 @@
     font-family: "Helvetica Neue", serif;
 }
 
+body{
+    margin: 0;
+    padding: 0;
+    background: slategray;
+}
 
-p {
-    border: 5px solid black;
-    background-color: #A52A2A;
-    width: 90%;
-    font-size: 125%;
-    height: 150px;
+h1{
+    text-align: center;
+    color: #7abaff;
+}
+
+h2{
+   float: right;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    margin: 0;
+    width: 230px;
+    text-align: center;
+    font-family: "Times New Roman", serif;
+    font-size: 24px;
+    font-weight: bold;
+    height: 45px;
     padding-top: 10px;
 }
+
+section > h2.chicken {
+    background-color: red;
+}
+
+section > h2.sushi {
+    background-color: #0623ff;
+}
+
+section > h2.beef {
+    background-color: #34ce57;
+}
+
+p {
+    font-size: 125%;
+    padding-top: 40px;
+}
+section {
+    border: 1px solid black;
+    background-color: #b5c4d2;
+    margin: 10px;
+}
+
+
 
 .row {
     width: 100%;

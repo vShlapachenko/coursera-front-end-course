@@ -19,36 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63cf3ffd-4db4-408d-844c-3173c79ebf43" name="Default Changelist" comment="added bootstrap">
-      <change afterPath="$PROJECT_DIR$/learning-path/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning-path/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2-sol/index.html" afterDir="false" />
+    <list default="true" id="63cf3ffd-4db4-408d-844c-3173c79ebf43" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/module2-sol/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-3.5.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/js/jquery-3.5.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-3.5.1.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/js/jquery-3.5.1.min.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning-path/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2-sol/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/module2-sol/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2-sol/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/module2-sol/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +86,8 @@
       <workItem from="1596770976898" duration="599000" />
       <workItem from="1596771618371" duration="27000" />
       <workItem from="1596771695964" duration="1531000" />
-      <workItem from="1596940213364" duration="6132000" />
+      <workItem from="1596940213364" duration="6520000" />
+      <workItem from="1596990371283" duration="5384000" />
     </task>
     <task id="LOCAL-00001" summary="Add index.html">
       <created>1596685259676</created>
@@ -134,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596772300859</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="refactored code to allow adding different modules in one repo">
+      <created>1596950513790</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596950513790</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,17 +139,18 @@
     <MESSAGE value="Add index.html" />
     <MESSAGE value="test commit" />
     <MESSAGE value="added bootstrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="added bootstrap" />
+    <MESSAGE value="refactored code to allow adding different modules in one repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored code to allow adding different modules in one repo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1374" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596771380619">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1374" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1596771380619" />
-    <state x="1485" y="272" width="809" height="738" key="CommitChangelistDialog2" timestamp="1596772379886">
+    <state x="1485" y="272" width="809" height="738" key="CommitChangelistDialog2" timestamp="1596950512232">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1485" y="272" width="809" height="738" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1596772379886" />
+    <state x="1485" y="272" width="809" height="738" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1596950512232" />
     <state x="1755" y="601" width="624" height="463" key="Github.ShareDialog" timestamp="1596684505627">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -179,10 +163,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1421" y="348" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1596771990886" />
-    <state x="1512" y="436" key="Vcs.Push.Dialog.v2" timestamp="1596772305765">
+    <state x="1512" y="436" key="Vcs.Push.Dialog.v2" timestamp="1596950515425">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1512" y="436" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1596772305765" />
+    <state x="1512" y="436" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1596950515425" />
     <state x="1737" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596684689468">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
