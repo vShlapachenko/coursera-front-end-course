@@ -20,10 +20,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63cf3ffd-4db4-408d-844c-3173c79ebf43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/website-coding/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/js/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/js/jquery-3.5.1.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website-coding/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning-path/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning-path/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning-path/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module2-sol/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/module2-sol/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module2-sol/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/module2-sol/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +76,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/website-coding" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -64,12 +88,13 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Projects\coursera-front-end-course" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Projects\coursera-front-end-course\learning-path" />
       <recent name="F:\Projects\coursera-front-end-course\js" />
+      <recent name="F:\Projects\coursera-front-end-course" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Projects\coursera-front-end-course\website-coding" />
       <recent name="F:\Projects\coursera-front-end-course" />
     </key>
   </component>
@@ -87,7 +112,8 @@
       <workItem from="1596771618371" duration="27000" />
       <workItem from="1596771695964" duration="1531000" />
       <workItem from="1596940213364" duration="6520000" />
-      <workItem from="1596990371283" duration="5384000" />
+      <workItem from="1596990371283" duration="15603000" />
+      <workItem from="1597033462845" duration="485000" />
     </task>
     <task id="LOCAL-00001" summary="Add index.html">
       <created>1596685259676</created>
@@ -117,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596950513790</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="finished assignment for module 2">
+      <created>1597001255797</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597001255798</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,17 +173,18 @@
     <MESSAGE value="test commit" />
     <MESSAGE value="added bootstrap" />
     <MESSAGE value="refactored code to allow adding different modules in one repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactored code to allow adding different modules in one repo" />
+    <MESSAGE value="finished assignment for module 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished assignment for module 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1374" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596771380619">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1374" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1596771380619" />
-    <state x="1485" y="272" width="809" height="738" key="CommitChangelistDialog2" timestamp="1596950512232">
+    <state x="1485" y="272" width="809" height="738" key="CommitChangelistDialog2" timestamp="1597001254049">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1485" y="272" width="809" height="738" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1596950512232" />
+    <state x="1485" y="272" width="809" height="738" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1597001254049" />
     <state x="1755" y="601" width="624" height="463" key="Github.ShareDialog" timestamp="1596684505627">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -163,10 +197,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1421" y="348" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1596771990886" />
-    <state x="1512" y="436" key="Vcs.Push.Dialog.v2" timestamp="1596950515425">
+    <state x="1512" y="436" key="Vcs.Push.Dialog.v2" timestamp="1597001316851">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1512" y="436" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1596950515425" />
+    <state x="1512" y="436" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1597001316851" />
     <state x="1737" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596684689468">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
